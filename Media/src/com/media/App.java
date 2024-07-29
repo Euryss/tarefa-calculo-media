@@ -18,7 +18,7 @@ public class App {
         nota2 = input.nextDouble();
         System.out.println("Insira o valor da terceira nota: ");
         nota3 = input.nextDouble();
-        System.out.println("Ensira o valor da quara nota: ");
+        System.out.println("Insira o valor da quara nota: ");
         nota4 = input.nextDouble();
 
         media = (nota1 + nota2 + nota3 + nota4) / 4;
